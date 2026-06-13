@@ -7,7 +7,7 @@
 
  # TOOLS REQURIED 
 
-# PROGRAMMING LANGUAGE 
+# Programming language
 
 python 
 
@@ -15,11 +15,11 @@ python
 
 The simple expense tracker can be developed using python and visual studio code(VS Code).Expensive The records can be stored in a CSV file or SQLite database.Git can be used for version control. If a graphical interface is needed. TKinter can be used to create a simple user interface.
 
-# LIBRARIES USED 
+# libraries Used 
 
 The simple expense tracker can be developed using python's built-in-labiraries sush as datetime for handiling dates and times, csv or json for storing and retrieving expense data and os for file management operations. 
 
-# SYSTEM REQURIMENTS 
+# System Requriments 
 
 python 3.x installed Any code editior or IDE(VS code IDLE etc.)
 
